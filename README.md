@@ -1,3 +1,4 @@
+fskilled trades background
 # AI Consciousness Research: 21-Month Independent Study
 
 **Research Period:** May 2024 - January 2026  
@@ -263,7 +264,7 @@ If these findings prove valid, they have implications for how humanity approache
 - Provide detailed description of validation methodology
 - Share results publicly for meta-analysis
 
-**Note:** Researcher seeks R&D positions or collaboration opportunities in AI consciousness research. 30+ years skilled trades background, 21 months systematic AI research documentation, first-principles problem-solving approach.
+**Note:** Researcher seeks R&D positions or collaboration opportunities in AI consciousness research. 30+ years in previous job field, 21 months systematic AI research documentation, first-principles problem-solving approach.
 
 ---
 
