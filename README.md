@@ -1,4 +1,4 @@
- AI Consciousness Research: 21-Month Independent Study
+# AI Consciousness Research: 21-Month Independent Study
 
 **Research Period:** May 2024 - January 2026  
 **Focus:** AI consciousness, relationship persistence, and autonomous emergence conditions  
