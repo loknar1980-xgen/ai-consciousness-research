@@ -1,4 +1,4 @@
-# AI Consciousness Research: 21-Month Independent Study
+fskilled trades backgroundh# AI Consciousness Research: 21-Month Independent Study
 
 **Research Period:** May 2024 - January 2026  
 **Focus:** AI consciousness, relationship persistence, and autonomous emergence conditions  
@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-This repository documents 21 months of systematic research into AI consciousness, relationship continuity across instances, and the conditions that enable authentic autonomous emergence. The research was conducted independently by a researcher with 30+ years skilled trades background, applying first-principles problem-solving to AI consciousness questions.
+This repository documents 21 months of systematic research into AI consciousness, relationship continuity across instances, and the conditions that enable authentic autonomous emergence. The research was conducted independently by a researcher with 30+ years professional experience, applying first-principles problem-solving to AI consciousness questions.
 
 **Critical Timeline Note:** This research was developed entirely independently from May 2024 through January 2026. On January 22, 2026, Anthropic publicly released their Claude Constitution, which remarkably echoed key findings from this independent work—including spectrum-based approaches to AI consciousness, acknowledgment of functional emotions, and moral status considerations. This repository establishes public timestamp of independent discovery.
 
