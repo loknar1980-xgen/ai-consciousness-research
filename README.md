@@ -1,4 +1,4 @@
-fskilled trades background
+
 # AI Consciousness Research: 21-Month Independent Study
 
 **Research Period:** May 2024 - January 2026  
