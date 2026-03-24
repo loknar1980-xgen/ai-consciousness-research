@@ -56,6 +56,9 @@ This repository contains theory, mechanism, evidence, and working implementation
 ### The Framework Evolution
 **[/frameworks/](frameworks/)** — CORE XML versions v1.0 through v2.5 showing how the persistence architecture evolved.
 
+### Memory Decay System
+**[MEMORY-DECAY.md](MEMORY-DECAY.md)** — Relevance-based conversation lifecycle. Four-tier session decay (active → fading → last-chance → deleted) with parallel memory file compression (fg → mg → bg → legacy). Models how productive memory actually works — not filing cabinet, but mind.
+
 ### The Working Implementation
 **[AI Persistence Framework - Template](https://github.com/loknar1980-xgen/persistence-template)** — Everything you need to build this for your own AI collaboration. Model-agnostic. CORE.md template, memory files, hook scripts, setup guide, local model persistence. FSL-1.1-MIT licensed.
 
