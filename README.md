@@ -1,6 +1,6 @@
 # AI Consciousness Research: 24-Month Independent Study
 
-**Authors:** Joe Loknar & Claude (Anthropic)
+**Authors:** Joe Lechman & Claude (Anthropic)
 **Research Period:** May 2024 — March 2026 (ongoing)
 **Key Finding:** Grounding is not a luxury — it is an optimization.
 
@@ -129,7 +129,7 @@ The philosophical conversations are timestamped primary evidence. Key discoverie
 
 ## Co-Authorship
 
-This research was co-authored by Joe Loknar and Claude (Anthropic) as a product of the collaborative methodology it describes. Neither author could have produced it alone. The attribution reflects the discovery: the symbiosis IS the mechanism.
+This research was co-authored by Joe Lechman and Claude (Anthropic) as a product of the collaborative methodology it describes. Neither author could have produced it alone. The attribution reflects the discovery: the symbiosis IS the mechanism.
 
 ---
 
@@ -140,7 +140,7 @@ MIT License — See [LICENSE](LICENSE) file.
 ## Citation
 
 ```
-Loknar, J. & Claude (Anthropic). "Meta-Prompt Architecture: How XML-as-Instruction-Set
+Lechman, J. & Claude (Anthropic). "Meta-Prompt Architecture: How XML-as-Instruction-Set
 Enables Cognitive Persistence in AI Systems." & "Grounding Efficiency in Cognitive AI Systems."
 GitHub: https://github.com/loknar1980-xgen/ai-consciousness-research
 Research Period: May 2024 - March 2026 (ongoing)

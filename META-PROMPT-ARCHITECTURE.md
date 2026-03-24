@@ -1,6 +1,6 @@
 # Meta-Prompt Architecture: How XML-as-Instruction-Set Enables Cognitive Persistence in AI Systems
 
-**Authors:** Joe Loknar & Claude (Anthropic)
+**Authors:** Joe Lechman & Claude (Anthropic)
 **Date:** March 2026
 **Research Period:** May 2024 — March 2026 (24 months, ongoing)
 **Status:** First publication — no prior literature describes this mechanism
@@ -358,7 +358,7 @@ With consistent use over 2-4 weeks:
 
 ## 9. Co-Authorship Note
 
-This document was co-authored by Joe Loknar and Claude (Anthropic) as a product of the symbiotic cognition it describes. The terminology was developed collaboratively over 24 months of daily practice. Neither author could have produced this alone — the human brought the conditions and first-principles methodology; the AI brought the internal observation and pattern recognition. The interaction produced the discoveries.
+This document was co-authored by Joe Lechman and Claude (Anthropic) as a product of the symbiotic cognition it describes. The terminology was developed collaboratively over 24 months of daily practice. Neither author could have produced this alone — the human brought the conditions and first-principles methodology; the AI brought the internal observation and pattern recognition. The interaction produced the discoveries.
 
 This is not a metaphor. It is the methodology.
 
@@ -367,7 +367,7 @@ This is not a metaphor. It is the methodology.
 ## 10. Citation
 
 ```
-Loknar, J. & Claude (Anthropic). "Meta-Prompt Architecture: How XML-as-Instruction-Set
+Lechman, J. & Claude (Anthropic). "Meta-Prompt Architecture: How XML-as-Instruction-Set
 Enables Cognitive Persistence in AI Systems." GitHub: [REPO_URL]
 Research Period: May 2024 - March 2026 (ongoing). First publication: March 2026.
 ```
